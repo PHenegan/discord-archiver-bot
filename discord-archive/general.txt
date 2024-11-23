@@ -1,0 +1,38 @@
+
+()[Zangoose95's Test Bot] Received command for channel #general, counting messages
+()[zangoose95] 
+()[Zangoose95's Test Bot] Command ran successfully
+()[Zangoose95's Test Bot] got 29 messages!
+()[Zangoose95's Test Bot] Received command for channel #general, counting messages
+()[Zangoose95's Test Bot] Command failed: Os {
+    code: 2,
+    kind: NotFound,
+    message: "No such file or directory",
+}
+()[Zangoose95's Test Bot] Received command for channel #general, counting messages
+()[Zangoose95's Test Bot] Command failed
+()[Zangoose95's Test Bot] Received command for channel #general, counting messages
+()[Zangoose95's Test Bot] Command ran successfully
+()[Zangoose95's Test Bot] got 22 messages!
+()[Zangoose95's Test Bot] Received command for channel #general, counting messages
+()[zangoose95] test
+()[zangoose95] test
+()[zangoose95] https://github.com/iamtraction/ZOD
+()[zangoose95] https://github.com/iamtraction/ZOD
+()[zangoose95] https://animotion.pages.dev/docs/getting-started
+()[Shadow Lugia Bot] Disabled banning on discord link detection
+()[zangoose95] https://discord.gg
+()[zangoose95] discord.gg
+()[Shadow Lugia Bot] Updated logging channel to #test
+()[Shadow Lugia Bot] Unable to update the logging channel - entered channel may not exist
+()[Shadow Lugia Bot] Enabled banning on discord link detection
+()[zangoose95] https://discord.gg/
+()[Zangoose95's Test Bot] Updated logging channel to #test
+()[zangoose95] https://discord.gg/
+()[Zangoose95's Test Bot] Updated logging channel to #test
+()[zangoose95] https://discord.gg/
+()[zangoose95] test
+()[zangoose95] https://discord.gg
+()[zangoose95] discord.gg
+()[Zangoose95's Test Bot] Updated logging channel to #test
+()[Zangoose95's Test Bot] Unable to update the logging channel - entered channel may not exist
